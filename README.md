@@ -4,9 +4,9 @@ First of allm, clone the project by command "git clone" on your local machine.
 
 ## After that
 
-run the command > npm install 
+run the command > "npm install" 
 to install all the required dependencies
-after that run the command > yarn start
+after that run the command > "yarn start"
 
 ### `yarn start`
 
