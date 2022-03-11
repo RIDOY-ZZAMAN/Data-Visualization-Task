@@ -2,7 +2,7 @@
 
 First of all, clone the project by command "git clone" on your local machine.
 
-## After that
+## When Clone Done
 
 run the command > "npm install" 
 to install all the required dependencies
