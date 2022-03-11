@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-First of clone the project by command "git clone" on your local machine.
+First of allm, clone the project by command "git clone" on your local machine.
 
 ## After that
 
